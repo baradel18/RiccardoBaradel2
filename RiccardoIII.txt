@@ -1,3 +1,65 @@
+Allarmi. Scorrerie di soldati. Entra NORFOLK con soldati, combattendo.
+
+Gli viene incontro di corsa CATESBY
+
+CATESBY 
+	
+
+Correte, aiuto, signor di Norfolk!
+
+Il re compie prodigi sovrumani
+
+di valore, incurante d’ogni rischio.
+
+Gli hanno ucciso il cavallo,
+
+e lui, a piedi, seguita a combattere;
+
+e nell’ansia di battersi con Richmond
+
+si caccia nelle fauci della morte.
+
+Soccorretelo, nobile signore,
+
+o la giornata per noi è perduta. [giusta]
+
+(Escono Norfolk e soldati)
+
+Entra RE RICCARDO
+
+RICCARDO 
+	
+
+Un cavallo! Un cavallo!
+
+Il mio regno per un cavallo!
+
+CATESBY 
+	
+
+Sire,
+
+ritiratevi! Cerco io un cavallo
+
+per vostra altezza.
+
+RICCARDO 
+	
+
+Ho messo la mia vita come posta
+
+per un colpo di dadi, e starò al gioco.
+
+Credo ci siano sei Richmond sul campo;
+
+cinque ne ho fatti fuori, quello no!
+
+Un cavallo! Un cavallo!
+
+Il mio regno per un cavallo!
+
+(Escono tutti)
+
 Alarum: escursioni. Entrano in Norfolk e le forze combattono; a lui CATESBY
 
 CATESBY
@@ -28,3 +90,4 @@ RE RICCARDO III
      Un cavallo! un cavallo! il mio regno per un cavallo!
 
      Esce
+main
